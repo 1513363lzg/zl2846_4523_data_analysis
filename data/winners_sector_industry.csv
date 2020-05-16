@@ -1,0 +1,221 @@
+,sector,industry,market,total_return
+A,Health Technology,Biotechnology,$24.7B,0.09518576962599123
+AAPL,Electronic Technology,Telecommunications Equipment,$1.3T,0.09136471458192452
+ABBV,Health Technology,Pharmaceuticals: Major,$124.0B,0.033474241357682066
+ABC,Distribution Services,Medical Distributors,$17.9B,0.029162334670966628
+ABMD,Health Technology,Medical Specialties,$8.4B,0.1612335230222639
+ABT,Health Technology,Medical Specialties,$165.7B,0.15974290599761143
+ACN,Technology Services,Information Technology Services,$124.8B,0.06393219419222018
+ADBE,Technology Services,Packaged Software,$177.1B,0.09844154503890667
+ADI,Electronic Technology,Semiconductors,$40.4B,0.04060909736012763
+ADSK,Technology Services,Packaged Software,$40.4B,0.10025538619589747
+AKAM,Technology Services,Internet Software/Services,$16.4B,0.11154962786001588
+ALL,Finance,Property/Casualty Insurance,$31.7B,-0.01722747378269962
+ALXN,Health Technology,Biotechnology,$21.5B,0.14419186983379895
+AMCR,Process Industries,Containers/Packaging,$14.4B,0.015607512316698324
+AMD,Electronic Technology,Semiconductors,$62.3B,0.1846627821986948
+AME,Producer Manufacturing,Electrical Products,$19.3B,-0.017505499684055348
+AMGN,Health Technology,Biotechnology,$138.1B,0.1470503056738286
+AMP,Finance,Investment Banks/Brokers,$15.4B,0.015677420906434536
+AMZN,Retail Trade,Internet Retail,$1.2T,0.2458637809561095
+ANET,Electronic Technology,Computer Communications,$16.5B,0.10572113762677926
+ANSS,Technology Services,Packaged Software,$22.5B,0.13386004749191693
+AON,Finance,Insurance Brokers/Services,$43.9B,0.05527031556441431
+AOS,Producer Manufacturing,Building Products,$7.2B,-0.0026071770380350356
+APA,Energy Minerals,Oil & Gas Production,$4.7B,0.09267840625907264
+APD,Process Industries,Chemicals: Specialty,$51.6B,0.07307294501808514
+ATVI,Consumer Durables,Recreational Products,$56.4B,0.19008402387670076
+AVGO,Electronic Technology,Semiconductors,$110.0B,0.02111075861314804
+BAX,Health Technology,Medical Specialties,$44.8B,0.035068642022073604
+BBY,Retail Trade,Electronics/Appliance Stores,$20.2B,0.09883057663618833
+BDX,Health Technology,Medical Specialties,$69.2B,0.1044203743383314
+BIIB,Health Technology,Biotechnology,$52.2B,0.046265039115779505
+BKR,Industrial Services,Oilfield Services/Equipment,$15.5B,0.05886623927826773
+BLK,Finance,Investment Managers,$77.4B,-0.00993463520390736
+BMY,Health Technology,Pharmaceuticals: Major,$138.1B,0.09356116244420343
+BR,Commercial Services,Miscellaneous Commercial Services,$13.4B,0.1845411700128068
+BSX,Health Technology,Medical Specialties,$53.4B,0.05116541277561426
+BWA,Producer Manufacturing,Auto Parts: OEM,$6.1B,0.015473133632999625
+CAG,Consumer Non-Durables,Food: Major Diversified,$16.3B,0.22433596062728656
+CAH,Distribution Services,Medical Distributors,$14.6B,0.007845491789000958
+CAT,Producer Manufacturing,Trucks/Construction/Farm Machinery,$60.7B,-0.013991904344628825
+CDNS,Technology Services,Packaged Software,$23.0B,0.2881437604961772
+CDW,Technology Services,Information Technology Services,$15.4B,-0.020270852677405138
+CHD,Consumer Non-Durables,Household/Personal Care,$18.0B,0.008382584011149996
+CHRW,Transportation,Air Freight/Couriers,$9.9B,0.12256873403868784
+CHTR,Consumer Services,Cable/Satellite TV,$106.4B,0.05279382161798751
+CLX,Consumer Non-Durables,Household/Personal Care,$25.7B,0.17531424386160754
+CMG,Consumer Services,Restaurants,$25.8B,0.32606486851124417
+CMI,Producer Manufacturing,Trucks/Construction/Farm Machinery,$23.8B,0.05479637066523768
+CNC,Health Services,Managed Health Care,$38.2B,0.1056816495112709
+COG,Energy Minerals,Integrated Oil,$8.2B,0.12160563169999872
+COP,Energy Minerals,Oil & Gas Production,$46.2B,0.19208717195436398
+COST,Retail Trade,Specialty Stores,$135.1B,-0.014738195373459884
+CPB,Consumer Non-Durables,Food: Major Diversified,$15.5B,0.022239626251935096
+CPRT,Commercial Services,Miscellaneous Commercial Services,$19.6B,0.04402828551657234
+CRM,Technology Services,Packaged Software,$158.1B,0.10040905736922734
+CSCO,Technology Services,Information Technology Services,$182.3B,0.07834329456580802
+CSX,Transportation,Railroads,$50.6B,0.020356275003996727
+CTXS,Technology Services,Packaged Software,$18.6B,0.27931693587346973
+CVS,Retail Trade,Drugstore Chains,$82.5B,0.011980830962959876
+CVX,Energy Minerals,Integrated Oil,$178.2B,0.07201688486033864
+CXO,Energy Minerals,Oil & Gas Production,$11.5B,0.10735589677504942
+DD,Process Industries,Chemicals: Major Diversified,$34.4B,0.1983211328730543
+DG,Retail Trade,Discount Stores,$44.4B,0.09311275625587401
+DGX,Health Services,Services to the Health Industry,$15.0B,0.013917654766800958
+DHR,Health Technology,Medical Specialties,$112.6B,0.11059529473962426
+DLR,Finance,Real Estate Investment Trusts,$38.9B,-0.011305349995999081
+DOW,Process Industries,Chemicals: Specialty,$25.4B,0.07611469191186404
+DPZ,Consumer Services,Restaurants,$14.4B,0.09882247137097311
+DVA,Health Services,Medical/Nursing Services,$9.8B,0.015311405336021489
+DVN,Energy Minerals,Oil & Gas Production,$4.9B,0.37624853535316216
+DXCM,Health Technology,Medical Specialties,$37.4B,0.47145210462857623
+EA,Consumer Durables,Recreational Products,$33.8B,0.12565298740839892
+EBAY,Consumer Services,Other Consumer Services,$29.5B,0.16537177949695603
+ECL,Process Industries,Chemicals: Specialty,$57.2B,0.017553003602785555
+EMN,Process Industries,Chemicals: Major Diversified,$8.5B,0.18882868817401866
+EMR,Producer Manufacturing,Electrical Products,$33.5B,-0.007798031542573303
+EOG,Energy Minerals,Oil & Gas Production,$29.9B,0.19519238087552804
+EQIX,Finance,Real Estate Investment Trusts,$58.3B,0.08745164933330218
+ETFC,Finance,Investment Banks/Brokers,$9.1B,-0.006558989039770369
+EW,Health Technology,Medical Specialties,$45.0B,0.07196730149809416
+EXPD,Transportation,Air Freight/Couriers,$12.5B,0.05175129241621845
+FANG,Energy Minerals,Oil & Gas Production,$6.6B,0.37702151319579347
+FAST,Distribution Services,Wholesale Distributors,$22.4B,0.15535718624283845
+FB,Technology Services,Internet Software/Services,$605.0B,0.17907852979912464
+FFIV,Electronic Technology,Computer Communications,$9.1B,0.1911266282120494
+FLIR,Electronic Technology,Aerospace & Defense,$6.3B,0.23364485505322108
+FMC,Process Industries,Chemicals: Agricultural,$12.1B,0.024833248440460087
+FRC,Finance,Regional Banks,$17.8B,0.07402583195639045
+FTNT,Electronic Technology,Computer Communications,$22.1B,0.5254629357088976
+GILD,Health Technology,Biotechnology,$97.2B,0.07755046854229719
+GIS,Consumer Non-Durables,Food: Major Diversified,$36.2B,0.15566644749847458
+GOOG,Technology Services,Internet Software/Services,$466.7B,0.07446947765530565
+GOOGL,Technology Services,Internet Software/Services,$479.6B,0.07842876347392691
+GWW,Distribution Services,Wholesale Distributors,$15.3B,-0.008618853101328816
+HAL,Industrial Services,Oilfield Services/Equipment,$9.4B,0.21131639214207554
+HD,Retail Trade,Home Improvement Chains,$251.8B,0.03190074012226618
+HES,Energy Minerals,Oil & Gas Production,$14.9B,0.12903223015391263
+HFC,Energy Minerals,Oil Refining/Marketing,$5.1B,0.20234603074530821
+HOLX,Health Technology,Medical Specialties,$13.4B,0.13247489601161844
+HRL,Consumer Non-Durables,Food: Meat/Fish/Dairy,$25.4B,0.10260516112171292
+HUM,Health Services,Managed Health Care,$49.9B,0.09851132225777448
+ICE,Finance,Investment Banks/Brokers,$51.2B,0.022087243871840023
+IDXX,Health Technology,Medical Specialties,$24.5B,0.13232296837942248
+IEX,Producer Manufacturing,Industrial Machinery,$11.8B,0.025060646953654953
+IFF,Consumer Non-Durables,Household/Personal Care,$14.4B,0.12448344584818871
+ILMN,Health Technology,Biotechnology,$45.6B,0.19914225288813103
+INCY,Health Technology,Biotechnology,$20.9B,0.30184364206834635
+INFO,Finance,Investment Managers,$26.8B,0.09409261892604226
+INTC,Electronic Technology,Semiconductors,$252.6B,0.08169692265301953
+INTU,Technology Services,Packaged Software,$73.0B,0.04457460821195136
+IPGP,Electronic Technology,Semiconductors,$8.1B,0.22837459381282366
+IQV,Health Services,Services to the Health Industry,$26.3B,0.030423448285515686
+IR,--,--,--,0.1508800663047445
+IT,Commercial Services,Miscellaneous Commercial Services,$10.9B,0.017526947588312414
+JBHT,Transportation,Trucking,$10.9B,0.08335142561373354
+JKHY,Technology Services,Information Technology Services,$14.0B,0.13357402441032784
+JNJ,Health Technology,Pharmaceuticals: Major,$391.8B,0.038830838913445964
+JNPR,Technology Services,Information Technology Services,$7.8B,0.09555030312548762
+K,Consumer Non-Durables,Food: Major Diversified,$21.8B,0.010176489042132753
+KEYS,Electronic Technology,Electronic Equipment/Instruments,$18.9B,0.044078880359220474
+KHC,Consumer Non-Durables,Food: Major Diversified,$36.1B,0.19918363921496263
+KLAC,Electronic Technology,Electronic Production Equipment,$26.6B,0.07116516451297628
+KMB,Consumer Non-Durables,Household/Personal Care,$47.2B,-0.02269179443548719
+KR,Retail Trade,Food Retail,$25.9B,0.029141129061512228
+KSU,Transportation,Railroads,$13.0B,0.017083503446231774
+LIN,Process Industries,Chemicals: Specialty,$99.0B,0.03904426174386022
+LLY,Health Technology,Pharmaceuticals: Major,$146.8B,0.11707626951955552
+LMT,Electronic Technology,Aerospace & Defense,$106.1B,0.010730647328865972
+LOW,Retail Trade,Home Improvement Chains,$86.2B,0.06940974287355339
+MAS,Producer Manufacturing,Building Products,$11.1B,-0.01641347804885629
+MCHP,Electronic Technology,Semiconductors,$21.5B,0.05535093668417379
+MCK,Distribution Services,Medical Distributors,$22.0B,-0.02340576614158807
+MCO,Commercial Services,Financial Publishing/Services,$47.2B,0.10057117212570632
+MDT,Health Technology,Medical Specialties,$132.7B,-0.012038228048586785
+MKC,Consumer Non-Durables,Food: Specialty/Candy,$20.3B,0.11278292401217649
+MKTX,Finance,Investment Banks/Brokers,$18.4B,0.3935771247701214
+MMC,Finance,Insurance Brokers/Services,$52.6B,0.011737382450778489
+MNST,Consumer Non-Durables,Beverages: Non-Alcoholic,$34.6B,0.0009073822845993007
+MRO,Energy Minerals,Oil & Gas Production,$4.6B,0.3545454338562397
+MSCI,Finance,Investment Managers,$27.9B,0.26450760543688934
+MSFT,Technology Services,Packaged Software,$1.4T,0.13416602400917244
+MTD,Health Technology,Medical Specialties,$17.3B,-0.016588069550033335
+MXIM,Electronic Technology,Semiconductors,$14.4B,0.020951314079696193
+MYL,Health Technology,Pharmaceuticals: Generic,$9.1B,0.07625992203902077
+NBL,Energy Minerals,Oil & Gas Production,$4.9B,1.3322676295501878e-15
+NDAQ,Finance,Investment Banks/Brokers,$17.7B,0.03629420403552053
+NEM,Non-Energy Minerals,Precious Metals,$51.8B,0.2914427069621066
+NFLX,Consumer Services,Cable/Satellite TV,$191.6B,0.18589515154948733
+NKE,Consumer Non-Durables,Apparel/Footwear,$140.7B,-0.00045301148521992296
+NLOK,Technology Services,Packaged Software,$12.8B,0.1594202128128963
+NOV,Industrial Services,Oilfield Services/Equipment,$5.1B,0.0661704036921471
+NOW,Technology Services,Information Technology Services,$71.9B,0.16879801908909764
+NRG,Utilities,Electric Utilities,$8.0B,-0.008655294976933181
+NSC,Transportation,Railroads,$44.8B,0.03912528187787889
+NTAP,Electronic Technology,Computer Peripherals,$9.9B,-0.010577210425763317
+NTRS,Finance,Regional Banks,$15.8B,-0.020306645022005188
+NUE,Non-Energy Minerals,Steel,$12.7B,0.050632835963810185
+NVDA,Electronic Technology,Semiconductors,$192.2B,0.195419113510364
+NWS,Consumer Services,Publishing: Newspapers,$2.2B,-0.02350815723484745
+NWSA,Consumer Services,Publishing: Newspapers,$4.2B,-0.019444447633170547
+ODFL,Transportation,Trucking,$18.0B,0.21519182202169396
+ORCL,Technology Services,Packaged Software,$168.9B,0.07595715289475713
+ORLY,Retail Trade,Specialty Stores,$29.9B,0.002007543624154673
+OXY,Energy Minerals,Oil & Gas Production,$13.5B,0.01673638553447776
+PAYC,Technology Services,Packaged Software,$15.9B,0.10009193630838142
+PCAR,Producer Manufacturing,Trucks/Construction/Farm Machinery,$24.1B,0.0338746289299785
+PEP,Consumer Non-Durables,Beverages: Non-Alcoholic,$186.2B,-0.008945854731640224
+PFE,Health Technology,Pharmaceuticals: Major,$206.8B,0.08008096113166574
+PKG,Process Industries,Containers/Packaging,$9.3B,0.05639433534406746
+PKI,Health Technology,Medical Specialties,$10.3B,0.15114658886417698
+PLD,Finance,Real Estate Investment Trusts,$66.5B,0.04155330923805911
+PRGO,Health Technology,Pharmaceuticals: Other,$7.2B,0.061843197283763196
+PSX,Energy Minerals,Oil Refining/Marketing,$33.7B,0.16051133319092337
+PXD,Energy Minerals,Oil & Gas Production,$14.8B,0.052216355335274356
+PYPL,Technology Services,Data Processing Services,$170.2B,0.2851284994042975
+QCOM,Electronic Technology,Telecommunications Equipment,$90.6B,-0.005957678087708751
+QRVO,Electronic Technology,Semiconductors,$11.9B,0.04864581425984715
+REGN,Health Technology,Biotechnology,$63.4B,0.1737189821948668
+RMD,Health Technology,Medical Specialties,$23.5B,0.03364038684534121
+ROK,Producer Manufacturing,Electrical Products,$22.3B,0.11316419196241956
+ROL,Consumer Services,Other Consumer Services,$13.9B,0.020074384235988063
+ROP,Electronic Technology,Electronic Equipment/Instruments,$37.4B,0.04523499563524047
+SBAC,Finance,Real Estate Investment Trusts,$32.6B,0.025825671009937823
+SBUX,Consumer Services,Restaurants,$91.0B,-0.006945428788362795
+SCHW,Finance,Investment Banks/Brokers,$47.0B,0.04189438754245289
+SEE,Process Industries,Containers/Packaging,$4.6B,0.003418816460504015
+SHW,Process Industries,Industrial Specialties,$49.9B,0.013625878493966681
+SIVB,Finance,Regional Banks,$9.6B,0.048651014529999204
+SJM,Consumer Non-Durables,Food: Specialty/Candy,$13.2B,0.06202184936694399
+SNPS,Technology Services,Packaged Software,$24.1B,0.17294181863001223
+SPGI,Commercial Services,Financial Publishing/Services,$71.7B,0.15449309701297054
+STE,Health Technology,Medical Specialties,$12.6B,-0.01290619495337908
+STT,Finance,Regional Banks,$21.2B,-0.007050902774709211
+STX,Electronic Technology,Computer Peripherals,$13.1B,0.015031260606888752
+SWKS,Electronic Technology,Semiconductors,$18.6B,0.1290322632030374
+SYK,Health Technology,Medical Specialties,$72.1B,0.02511440766869666
+TGT,Retail Trade,Specialty Stores,$57.9B,0.1020954248283159
+TMO,Health Technology,Medical Specialties,$131.5B,0.07806300962221013
+TMUS,Communications,Wireless Telecommunications,$121.7B,0.11332074456351626
+TROW,Finance,Investment Managers,$26.0B,-0.0003546494831333513
+TSCO,Retail Trade,Specialty Stores,$12.4B,0.23898800618775073
+TTWO,Consumer Durables,Recreational Products,$14.7B,0.10837890625000046
+TXN,Electronic Technology,Semiconductors,$105.5B,-0.003835179224421559
+UNH,Health Services,Managed Health Care,$272.2B,0.027500043596540902
+UNP,Transportation,Railroads,$107.4B,0.04883529363346195
+UPS,Transportation,Air Freight/Couriers,$81.4B,0.00032319305532757525
+URI,Finance,Finance/Rental/Leasing,$8.9B,0.02569355970281917
+V,Finance,Finance/Rental/Leasing,$394.1B,-0.017141318610023104
+VAR,Health Technology,Medical Specialties,$10.8B,-0.013177556100012477
+VLO,Energy Minerals,Oil Refining/Marketing,$26.9B,0.047808095172436005
+VRSK,Finance,Insurance Brokers/Services,$25.9B,-0.0008931950028198132
+VRSN,Technology Services,Internet Software/Services,$24.3B,0.12254113377905274
+VRTX,Health Technology,Biotechnology,$70.4B,0.1993840085424321
+VZ,Communications,Major Telecommunications,$235.9B,-0.018754447358561355
+WLTW,Finance,Insurance Brokers/Services,$25.4B,0.06990992297754728
+WMB,Industrial Services,Oil & Gas Pipelines,$23.6B,0.17127064772104106
+WMT,Retail Trade,Food Retail,$348.4B,0.033308271418940105
+XLNX,Electronic Technology,Semiconductors,$21.6B,0.08207708667035374
+XOM,Energy Minerals,Integrated Oil,$195.3B,0.016355657382361555
+ZBRA,Electronic Technology,Computer Peripherals,$12.9B,0.1385330341194937
